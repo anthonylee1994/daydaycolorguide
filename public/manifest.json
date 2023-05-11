@@ -1,0 +1,21 @@
+{
+    "short_name": "紫微顏色風水",
+    "name": "紫微顏色風水",
+    "icons": [
+        {
+            "src": "logo192.png",
+            "type": "image/png",
+            "sizes": "192x192"
+        },
+        {
+            "src": "logo512.png",
+            "type": "image/png",
+            "sizes": "512x512",
+            "purpose": "maskable"
+        }
+    ],
+    "start_url": ".",
+    "display": "standalone",
+    "theme_color": "#dd6b20",
+    "background_color": "#dd6b20"
+}
